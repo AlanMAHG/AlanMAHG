@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**AlanMAHG/AlanMAHG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const AlanMAHG = {
+pronouns: "He" | "Him",
+code: [Javascript, HTML, CSS],
+tools: [Github,Bootstrap]
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I am currently studying front-end in the DEV.f boot camp.
+- 🌱 I am currently studying front-end in the DEV.f boot camp.
+- 👯 I’m looking to collaborate on a web development company
+- 🤔 I am looking for help to develop my skills as a student and front-end programmer.
+- 📫 How to reach me:
+-->[Linkedin](https://www.linkedin.com/in/al-mahg-133635231/)
 - ⚡ Fun fact: ...
--->
+-->I like to play chess.
+-->I like to juggle.
+-->I love to travel.
